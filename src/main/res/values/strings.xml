@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailyGrocery</string>
+    <string name="grocery_shop">Grocery Shop</string>
+    <string name="batch_no">Batch no</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="seller_name">Seller Name</string>
+    <string name="button">Generate</string>
+    <string name="generated_report">Generated Report</string>
+</resources>
